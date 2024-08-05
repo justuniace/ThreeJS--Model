@@ -1,0 +1,14 @@
+body {
+  background-color: #d6b7b7;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#container {
+  background-color: #d6b7b7;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}/*# sourceMappingURL=main.css.map */
